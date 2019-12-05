@@ -1,0 +1,4 @@
+C:\Users\v-jumac\source\repos\CircularLinkedList\bin\Debug\CircularLinkedList.dll
+C:\Users\v-jumac\source\repos\CircularLinkedList\bin\Debug\CircularLinkedList.pdb
+C:\Users\v-jumac\source\repos\CircularLinkedList\obj\Debug\CircularLinkedList.dll
+C:\Users\v-jumac\source\repos\CircularLinkedList\obj\Debug\CircularLinkedList.pdb

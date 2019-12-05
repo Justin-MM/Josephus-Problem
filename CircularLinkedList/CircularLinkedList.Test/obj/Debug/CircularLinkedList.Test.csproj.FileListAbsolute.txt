@@ -1,0 +1,15 @@
+C:\Users\v-jumac\source\repos\CircularLinkedList\CircularLinkedList.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\v-jumac\source\repos\CircularLinkedList\CircularLinkedList.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\v-jumac\source\repos\CircularLinkedList\CircularLinkedList.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\v-jumac\source\repos\CircularLinkedList\CircularLinkedList.Test\bin\Debug\CircularLinkedList.Test.dll
+C:\Users\v-jumac\source\repos\CircularLinkedList\CircularLinkedList.Test\bin\Debug\CircularLinkedList.Test.pdb
+C:\Users\v-jumac\source\repos\CircularLinkedList\CircularLinkedList.Test\bin\Debug\CircularLinkedList.dll
+C:\Users\v-jumac\source\repos\CircularLinkedList\CircularLinkedList.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\v-jumac\source\repos\CircularLinkedList\CircularLinkedList.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\v-jumac\source\repos\CircularLinkedList\CircularLinkedList.Test\bin\Debug\CircularLinkedList.pdb
+C:\Users\v-jumac\source\repos\CircularLinkedList\CircularLinkedList.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\v-jumac\source\repos\CircularLinkedList\CircularLinkedList.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\v-jumac\source\repos\CircularLinkedList\CircularLinkedList.Test\obj\Debug\CircularLinkedList.Test.csprojAssemblyReference.cache
+C:\Users\v-jumac\source\repos\CircularLinkedList\CircularLinkedList.Test\obj\Debug\CircularLinkedList.Test.csproj.CopyComplete
+C:\Users\v-jumac\source\repos\CircularLinkedList\CircularLinkedList.Test\obj\Debug\CircularLinkedList.Test.dll
+C:\Users\v-jumac\source\repos\CircularLinkedList\CircularLinkedList.Test\obj\Debug\CircularLinkedList.Test.pdb
